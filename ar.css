@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+
+}
+.conatiner{
+   width: 100%;
+   overflow: hidden;
+   position: relative;
+}
+.shad{
+    box-shadow: 30px;
+    border-radius: 12px;
+
+    
+
+}
+
+    
+
+
+.slider{
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+    box-shadow: 20px;
+    
+
+
+
+}
+.he{
+
+    width: 250px;
+    height: 150px;
+}
+button{
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    height: 35px;
+}
+p{
+    display: flex;
+    flex-direction: column;
+}
